@@ -1,7 +1,6 @@
 {
   "scripts": {
     "compile": [
-      "chmod -R 777 /var/logs/",
       "chmod -R 777 /app/logs/"
     ]
   }
